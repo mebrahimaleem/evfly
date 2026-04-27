@@ -128,7 +128,7 @@ matplotlib
 <details>
 <summary><strong>Download pretrained weights</strong></summary>
 
-Download `pretrained_models.tar` (50MB) from [Datashare](https://upenn.app.box.com/v/evfly-grasp-rpg). This tarball includes a number of simulation-pre-trained and real-fine-tuned models. For simulation testing in the provided forest environment, we will use the jointly-trained $D(\theta),V(\phi)$ model `sim_forest_DthetaVphi.pth`.
+Download `pretrained_models.tar` (174MB) from [Datashare](https://upenn.app.box.com/v/evfly-grasp-rpg). This tarball includes a number of simulation-pre-trained and real-fine-tuned models. For simulation testing in the provided forest environment, we will use the jointly-trained $D(\theta),V(\phi)$ model `sim_forest_DthetaVphi.pth`.
 ```
 tar -xvf <path/to/pretrained_models.tar>
 ```
