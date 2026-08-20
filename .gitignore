@@ -69,3 +69,5 @@ evfly_dv_ros/CATKIN_IGNORE
 envsim/resources/rviz/envsim.rviz
 
 .venv/
+
+**/.ipynb_checkpoints
